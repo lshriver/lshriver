@@ -8,4 +8,3 @@
 - 📫 How to reach me: lshriver@protonmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I play World of Warcraft
-
