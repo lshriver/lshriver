@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I play World of Warcraft
 
 ## My Links 🔗
-- [📦Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
+- 📦[Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
