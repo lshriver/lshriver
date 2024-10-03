@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 - 🔭 I’m currently working on finding a full time job
 - 🌱 I’m currently learning python
@@ -8,3 +8,6 @@
 - 📫 How to reach me: lshriver@protonmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I play World of Warcraft
+
+## My Links 🔗
+- [📦Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
