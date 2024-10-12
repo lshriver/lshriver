@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-- 🔭 I’m currently working on finding a full time job
+- 🔭 I’m currently working on tuning my career path.
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on science, math, or coding
 - 🤔 I’m looking for help with git
