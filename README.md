@@ -10,3 +10,4 @@
 
 ## My Links 🔗
 - 📦[Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
+- 📄[Resume](https://lshriver.github.io/myCV/)  
