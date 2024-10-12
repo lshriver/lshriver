@@ -1,4 +1,4 @@
-## Hi There 👋
+## Hi There 🌊
 
 - 🧭 I’m currently working on tuning my career path
 - 🐍 I’m currently learning python
@@ -9,5 +9,5 @@
 - 🧝🏻‍♀️ Fun fact: I play World of Warcraft
 
 ## My Links 🔗
-- 📦[Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
-- 📄[Resume](https://lshriver.github.io/myCV/)  
+- 📦 [Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
+- 📄 [Resume](https://lshriver.github.io/myCV/)  
