@@ -9,5 +9,6 @@
 - 🧝🏻‍♀️ Fun fact: I play World of Warcraft
 
 ## My Links 🔗
-- 📦 [Pyscript Boxes](https://eigenscribe.pyscriptapps.com/boxes-template/latest/)
-- 📄 [Resume](https://lshriver.github.io/myCV/)  
+- 📄 [Resume](https://lshriver.github.io/myCV/)
+- 🌲 [Landing Page](https://lshriver.github.io/landing-page/)
+- 🐍 [Pyscript Profile](https://pyscript.com/@eigenscribe)
