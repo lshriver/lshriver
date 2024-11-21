@@ -1,7 +1,7 @@
 ## Welcome Back
 
 - 🧭 I’m currently working on tuning my career path
-- 🐍 I’m currently learning python
+- 🐍 I’m currently learning python and quantum circuits
 - 💬 I’m looking to collaborate on science, math, or coding
 - 🔰 I’m looking for advice on remote/hybrid work for scientists
 - 🧠 Ask me about neuroscience
