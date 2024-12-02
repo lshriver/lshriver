@@ -12,3 +12,5 @@
 - 📄 [Resume](https://lshriver.github.io/myCV/)
 - 🌲 [Landing Page](https://lshriver.github.io/landing-page/)
 - 🐍 [Pyscript Profile](https://pyscript.com/@eigenscribe)
+- 🔗 [Bitly Page](https://bit.ly/m/eigenscribe)
+- 🔶 [Replit](https://replit.com/@lshriver)
