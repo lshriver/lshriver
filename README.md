@@ -10,6 +10,7 @@
 
 ## My Links 🔗
 - 📄 [Resume](https://lshriver.github.io/myCV/)
+- 🔱 [Portfolio Page](https://lshriver-portfolio.replit.app/)
 - 🌲 [Landing Page](https://lshriver.github.io/landing-page/)
 - 🐍 [Pyscript Profile](https://pyscript.com/@eigenscribe)
 - 🔗 [Bitly Page](https://bit.ly/m/eigenscribe)
